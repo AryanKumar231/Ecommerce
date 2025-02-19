@@ -1,6 +1,6 @@
 # E-Commerce Application
 
-![E-Commerce App](https://ecommerce-sigma-topaz-76.vercel.app/)
+![E-Commerce App](https://res.cloudinary.com/dwua8djrv/image/upload/f_auto,q_auto/v1/ecommerce/q9aa1utcqgr1zyi048nr)
 
 An advanced e-commerce template with product listing, shopping cart, and more. Built using the React.js.
 

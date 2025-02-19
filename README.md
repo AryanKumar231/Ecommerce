@@ -6,7 +6,7 @@ An advanced e-commerce template with product listing, shopping cart, and more. B
 
 ## 🚀 Features
 
-- 🔐 User authentication (Signup, Login, Logout)
+- 🔐 User authentication pages (Signup, Login, Logout)
 - 🛍️ Product listing with categories and filters
 - ❤️ Wishlist and Add to Cart functionality
 - 🛒 Shopping Cart with quantity management
@@ -22,8 +22,7 @@ An advanced e-commerce template with product listing, shopping cart, and more. B
 ## 📂 Folder Structure
 
 ```
-Ecommerce/
-├── client/            # React Frontend
+Ecommerce/          # React Frontend
 │   ├── src/
 │   ├── public/
 │   ├── package.json
@@ -48,7 +47,6 @@ cd Ecommerce
 #### 2️⃣ Install dependencies
 ```bash
 # Install dependencies
-cd client
 npm install
 
 ```
@@ -57,7 +55,6 @@ npm install
 #### 4️⃣ Run the application
 ```bash
 # Start the template
-cd ../client
 npm start
 ```
 

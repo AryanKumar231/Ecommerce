@@ -16,7 +16,6 @@ An advanced e-commerce template with product listing, shopping cart, and more. B
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, Redux (for state management)
-- **Authentication:** JWT (JSON Web Token)
 - **UI Components:**  Tailwind CSS
 - **Deployment:** Vercel
 
